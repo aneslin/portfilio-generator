@@ -1,2 +1,4 @@
 launch.json
 .eslintrc.js
+node_modules/
+.vscode
